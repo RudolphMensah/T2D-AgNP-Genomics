@@ -35,4 +35,4 @@ diabetes-snp-agnp-project/
 ---
 
 *Author: Rudolph Mensah (rudolphphd@gmail.com)*  
-*GitHub: [github.com/rudolphphd](https://github.com/rudolphmensah)*
+*GitHub: [github.com/rudolphpmensah](https://github.com/rudolphmensah)*
